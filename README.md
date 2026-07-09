@@ -9,12 +9,6 @@
   <i>Специализируюсь на создании надежных backend-архитектур и API.</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/doaks1638-netizen">
-    <img src="https://komarev.com/ghpvc/?username=doaks1638-netizen&color=58A6FF&style=flat-square&label=ВИЗИТЫ" alt="Profile Views" />
-  </a>
-</p>
-
 ---
 
 <table align="center" width="100%">
