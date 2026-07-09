@@ -84,15 +84,8 @@
 <h3 align="center">📊 GitHub Статистика</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doaks1638-netizen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=doaks1638-netizen&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doaks1638-netizen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="40%" />
-</p>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
