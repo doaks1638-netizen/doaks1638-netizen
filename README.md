@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20I'm%20doaks%20👋&fontSize=50&fontAlignY=38&animation=twinkling&desc=Backend%20Engineer%20%7C%20Python%20%7C%20FastAPI&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
-<h1 align="center">Привет, я doaks (he/him)! 🚀</h1>
+<h1 align="center">Привет, я doaks! 🚀</h1>
 
 <p align="center">
   <b>Немного обо мне</b><br>
